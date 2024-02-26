@@ -1,0 +1,266 @@
+[
+  {
+    "id": "P01",
+    "name": "Computer",
+    "price": 2300,
+    "quantity": 5
+  },
+  {
+    "id": "P02",
+    "name": "Laptop",
+    "price": 1500,
+    "quantity": 8
+  },
+  {
+    "id": "P03",
+    "name": "Smartphone",
+    "price": 800,
+    "quantity": 10
+  },
+  {
+    "id": "P04",
+    "name": "Tablet",
+    "price": 600,
+    "quantity": 12
+  },
+  {
+    "id": "P05",
+    "name": "Headphones",
+    "price": 100,
+    "quantity": 20
+  },
+  {
+    "id": "P06",
+    "name": "Mouse",
+    "price": 20,
+    "quantity": 30
+  },
+  {
+    "id": "P07",
+    "name": "Keyboard",
+    "price": 30,
+    "quantity": 25
+  },
+  {
+    "id": "P08",
+    "name": "Monitor",
+    "price": 300,
+    "quantity": 15
+  },
+  {
+    "id": "P09",
+    "name": "Printer",
+    "price": 200,
+    "quantity": 7
+  },
+  {
+    "id": "P10",
+    "name": "Scanner",
+    "price": 150,
+    "quantity": 5
+  },
+  {
+    "id": "P11",
+    "name": "External Hard Drive",
+    "price": 120,
+    "quantity": 18
+  },
+  {
+    "id": "P12",
+    "name": "USB Flash Drive",
+    "price": 15,
+    "quantity": 50
+  },
+  {
+    "id": "P13",
+    "name": "Wireless Router",
+    "price": 50,
+    "quantity": 10
+  },
+  {
+    "id": "P14",
+    "name": "Ethernet Cable",
+    "price": 10,
+    "quantity": 40
+  },
+  {
+    "id": "P15",
+    "name": "Bluetooth Speaker",
+    "price": 80,
+    "quantity": 22
+  },
+  {
+    "id": "P16",
+    "name": "Webcam",
+    "price": 35,
+    "quantity": 14
+  },
+  {
+    "id": "P17",
+    "name": "Microphone",
+    "price": 25,
+    "quantity": 28
+  },
+  {
+    "id": "P18",
+    "name": "Graphics Card",
+    "price": 400,
+    "quantity": 6
+  },
+  {
+    "id": "P19",
+    "name": "RAM Memory",
+    "price": 120,
+    "quantity": 12
+  },
+  {
+    "id": "P20",
+    "name": "SSD",
+    "price": 250,
+    "quantity": 9
+  },
+  {
+    "id": "P21",
+    "name": "HDMI Cable",
+    "price": 8,
+    "quantity": 35
+  },
+  {
+    "id": "P22",
+    "name": "Power Strip",
+    "price": 20,
+    "quantity": 20
+  },
+  {
+    "id": "P23",
+    "name": "Wireless Mouse",
+    "price": 25,
+    "quantity": 15
+  },
+  {
+    "id": "P24",
+    "name": "Wireless Keyboard",
+    "price": 40,
+    "quantity": 18
+  },
+  {
+    "id": "P25",
+    "name": "External DVD Drive",
+    "price": 30,
+    "quantity": 10
+  },
+  {
+    "id": "P26",
+    "name": "CPU Cooler",
+    "price": 50,
+    "quantity": 5
+  },
+  {
+    "id": "P27",
+    "name": "Motherboard",
+    "price": 150,
+    "quantity": 7
+  },
+  {
+    "id": "P28",
+    "name": "Power Supply Unit",
+    "price": 100,
+    "quantity": 10
+  },
+  {
+    "id": "P29",
+    "name": "Case Fan",
+    "price": 15,
+    "quantity": 25
+  },
+  {
+    "id": "P30",
+    "name": "Gaming Chair",
+    "price": 250,
+    "quantity": 3
+  },
+  {
+    "id": "P31",
+    "name": "Desk",
+    "price": 120,
+    "quantity": 4
+  },
+  {
+    "id": "P32",
+    "name": "Office Chair",
+    "price": 100,
+    "quantity": 6
+  },
+  {
+    "id": "P33",
+    "name": "Desk Lamp",
+    "price": 25,
+    "quantity": 15
+  },
+  {
+    "id": "P34",
+    "name": "Filing Cabinet",
+    "price": 80,
+    "quantity": 8
+  },
+  {
+    "id": "P35",
+    "name": "Shredder",
+    "price": 50,
+    "quantity": 5
+  },
+  {
+    "id": "P36",
+    "name": "Stapler",
+    "price": 10,
+    "quantity": 30
+  },
+  {
+    "id": "P37",
+    "name": "Printer Paper",
+    "price": 15,
+    "quantity": 50
+  },
+  {
+    "id": "P38",
+    "name": "Ink Cartridges",
+    "price": 40,
+    "quantity": 12
+  },
+  {
+    "id": "P39",
+    "name": "Whiteboard",
+    "price": 60,
+    "quantity": 6
+  },
+  {
+    "id": "P40",
+    "name": "Dry Erase Markers",
+    "price": 8,
+    "quantity": 25
+  },
+  {
+    "id": "P41",
+    "name": "Conference Table",
+    "price": 300,
+    "quantity": 2
+  },
+  {
+    "id": "P42",
+    "name": "Projector",
+    "price": 400,
+    "quantity": 3
+  },
+  {
+    "id": "P43",
+    "name": "Projection Screen",
+    "price": 200,
+    "quantity": 4
+  },
+  {
+    "id": "P44",
+    "name": "Microphone Stand",
+    "price": 30,
+    "quantity": 10
+  }]
+
